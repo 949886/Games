@@ -1,10 +1,2 @@
 /index.wasm
   content-type: application/wasm
-  accept-ranges: bytes
-  Content-Encoding: br
-  cache-control: max-age=3600
-  last-modified: Sun, 06 Apr 2025 08:32:12 GMT
-  content-length: 6294625
-  Connection: keep-alive
-  Keep-Alive: timeout=5
-  x-test: test

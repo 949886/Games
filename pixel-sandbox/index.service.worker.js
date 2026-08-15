@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1786766191|24675746';
+const CACHE_VERSION = '1786766177|31273394';
 /** @type {string} */
 const CACHE_PREFIX = 'Pixel Piece Worl-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
